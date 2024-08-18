@@ -3,7 +3,7 @@
 <h1><font color='red'>Welcome to Apache Tomcat Server..!!</font></h1>
 <h2>Hello World!Learn here.. Lead Anywhere</h2>
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Traning Schedules</a>
-<p>
+
 <li>
 ● Developed and implemented O1 handler features like configuration management, fault management modules in OAM, adhering to 3GPP Specifications within a Linux environment.
 
@@ -27,7 +27,7 @@
 
 ● Proactively identified and resolved complex technical issues, improving the stability and functionality of a feature. Resolved the Customer Support Request on time.
 </li>
-</p>
+
 
 </body>
 </html>
