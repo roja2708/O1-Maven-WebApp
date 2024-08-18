@@ -2,7 +2,8 @@
 <body>
 <h1><font color='red'>Welcome to Apache Tomcat Server..!!</font></h1>
 <h2>Hello World!Learn here.. Lead Anywhere</h2>
-<h3>
+<a href="https://ashokitech.com/online-training-schedules">Click Here To See Traning Schedules</a>
+<p>
 ● Developed and implemented O1 handler features like configuration management, fault management modules in OAM, adhering to 3GPP Specifications within a Linux environment.
 
 ● Generated and debugged Coverity reports, successfully addressing and resolving all code defects.
@@ -24,8 +25,7 @@
 ● Collaborated with cross-functional teams to design, test, validate and deploy changes, seamless integration of new features and ensuring successful deployment of project.
 
 ● Proactively identified and resolved complex technical issues, improving the stability and functionality of a feature. Resolved the Customer Support Request on time.
-</h3>
+</p>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Traning Schedules</a>
 </body>
 </html>
