@@ -5,9 +5,9 @@
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Traning Schedules</a>
 
 <p>
-<li>● Developed and implemented O1 handler features like configuration management, fault management modules in OAM, adhering to 3GPP Specifications within a Linux environment.</li>
+<li>Developed and implemented O1 handler features like configuration management, fault management modules in OAM, adhering to 3GPP Specifications within a Linux environment.</li>
 
-<li>● Generated and debugged Coverity reports, successfully addressing and resolving all code defects.</li>
+<li>●Generated and debugged Coverity reports, successfully addressing and resolving all code defects.</li>
 
 <li>● Analyzed feature requirements and executed Approach Notes as provided by customers, ensuring successful implementation.</li>
 
